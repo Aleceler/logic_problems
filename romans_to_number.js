@@ -43,7 +43,7 @@
 var romanToInt = function(s) {
     let result = 0
 
-    const dictRomans = {
+    const dict = {
         "I": 1,
         "V": 5,
         "X": 10,
